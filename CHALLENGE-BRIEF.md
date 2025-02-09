@@ -37,7 +37,7 @@ Double-check everything before submitting—**attention to detail matters!**
 ### 🚨 **How to Submit Your Challenge** 🚨  
 
 - Rename your repo with your details. Example format:  
-  `Module_07_StudentNo_Classcode_Group_Name-Surname_SDF04`  
+  `Module_08_StudentNo_Classcode_Group_Name-Surname_SDF04`  
 
 - Submit your GitHub Repo link through the LMS. You will find the [SDF04] challenge in the **[Projects](https://learn.codespace.co.za/projects)** tab.  
 
